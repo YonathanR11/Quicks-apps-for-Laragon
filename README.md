@@ -23,6 +23,6 @@ Bootstrap 4 MVC=https://github.com/YonathanR11/Quicks-apps-for-Laragon/files/349
 
 ```textile
 # MVC Bootstrap 4 & AngularJS: Un proyecto MVC con Bootstrap 4 & AngularJS
-Bootstrap 4 & AnguralrJS=https://github.com/YonathanR11/Quicks-apps-for-Laragon/files/3491025/MVC-Bootstrap-4-&-AngularJS.zip
+Bootstrap 4 - AnguralrJS=https://github.com/YonathanR11/Quicks-apps-for-Laragon/files/3491031/MVC-Bootstrap-4-AngularJS.zip
 ```
 
