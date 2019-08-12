@@ -8,15 +8,24 @@
 
   <!-- Bootstrap CSS -->
   <link rel="stylesheet" href="views/assets/css/bootstrap/bootstrap.min.css">
+  <script src="views/assets/js/angularjs/angular.min.js"></script>
 
   <title>Hello, world!</title>
 </head>
 
 <body>
   <div class="container">
-
     <h1>Hello, world!</h1>
+
+    <div ng-app="">
+
+      <p>Input something in the input box:</p>
+      <p>Name : <input type="text" ng-model="name" placeholder="Enter name here"></p>
+      <h1>Hello {{name}}</h1>
+
+    </div>
   </div>
+
 
   <!-- Optional JavaScript -->
   <!-- jQuery first, then Popper.js, then Bootstrap JS -->
