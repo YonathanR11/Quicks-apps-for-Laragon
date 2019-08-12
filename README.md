@@ -16,7 +16,6 @@ En el archivo de configuración agregue esto después de la línea 6:
 
 ```textile
 # MVC Bootstrap 4: Un proyecto MVC con Bootstrap 4
-
 Bootstrap 4 MVC=https://github.com/YonathanR11/Quicks-apps-for-Laragon/files/3490994/MVC-Bootstrap-4.zip
 ```
 
